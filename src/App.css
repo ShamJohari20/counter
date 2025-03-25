@@ -1,0 +1,19 @@
+.parent{
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn{
+  height: 45px;
+  width: 200px;
+  background-color: aquamarine;
+  color: black;
+  font-weight: 600;
+  cursor: pointer;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+}
